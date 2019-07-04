@@ -1,2 +1,2 @@
 # django-CBV-project
-Its a small project with django Class Based Views.
+A small project using django Class Based Views.
